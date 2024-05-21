@@ -1,4 +1,5 @@
 # Hello!
+If you are here it means you already know me a little bit from my CV. If not, feel free to drop me a message on <a href="www.linkedin.com/in/carla--rebelo">LinkedIn</a>.
 This repository contains some of my recent projects, where I explore machine learning and improve my data analysis skills.
 All of the ML projects followed a CRISP-DM approach, being structured as such. If for some reason you are not able to preview the Jupyter Notebook on Github, please download it and open it using a code editor (for example VSCode).
 
@@ -9,6 +10,7 @@ Pandas, Scikit-Learn, Seaborn
     
 
 ## Sleep Health Prediction
+[ongoing]
 This project aims to predict whether an individual has a sleep disorder, based on a set of variables. This classification problem explored algorithms such as K-nearest neighbours and Logistic regression.
 ### 🔧 Tools
 Pandas, Scikit-Learn, Seaborn
