@@ -16,6 +16,6 @@ This project aims to predict whether an individual has a sleep disorder, based o
 Pandas, Scikit-Learn, Seaborn
 
 ## Purchase Behaviour Analysis
-This data analysis project aims to find patterns and provide insights into the purchase behaviour of a group of clients. It started from an exploratory data analysis with Python to foster data understanding and data preparation, so that the dataset could be analysed using PowerBI.
+This data analysis project aims to find patterns and provide insights into the purchase behaviour of a group of clients. It started from an exploratory data analysis with Python to foster data understanding and data preparation, so that the dataset could be analysed using PowerBI. The outcome is a PowerBI dashboard.
 ### 🔧 Tools
 Pandas, Seaborn, PowerBI
